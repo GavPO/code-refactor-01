@@ -40,11 +40,10 @@ header div ul li {
 }
 
 /* Rename the hero class to the figure semantic */
-figure {
-    height: 800px;
+#hero {
+    height: 1000px;
     width: 100%;
     margin-bottom: 25px;
-    background-image: url("../images/digital-marketing-meeting.jpg");
     background-size: cover;
     background-position: center;
 }
