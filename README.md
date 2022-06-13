@@ -9,6 +9,9 @@ The purpose of this assignment was to refactor code for accessibility optimizati
 
 ## Credits
 
+Collaborators:
+Joe Stewart (https://github.com/stewartjoseph24)
+
 Professional README Template (https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide)
 
 ## License
