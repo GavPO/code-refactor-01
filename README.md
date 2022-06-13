@@ -1,7 +1,5 @@
 # code-refactor-01
 
-# <Your-Project-Title>
-
 ## Description
 
 Refactoring code for accessibility optimization
