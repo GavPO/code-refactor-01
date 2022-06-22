@@ -6,6 +6,9 @@ Refactoring code for accessibility optimization
 
 The purpose of this assignment was to refactor code for accessibility optimization. During this project I learned that pretty simple html can make pretty nice looking websites, and it mainly just matters what containers they're in and the css applied to it. I also learned about Selector Specificity. I think overall this code solves the problem of looking cluttery, and also helps optimize it for search engines.
 
+## Usage
+
+Used to describe the nescessity of Search Engine Optimization and give a little more insight into general Brand Management
 
 ## Credits
 
